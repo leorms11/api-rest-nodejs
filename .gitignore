@@ -6,7 +6,7 @@ dist
 
 # Database
 src/database/*.db
-testes/database/*.db
+tests/database/*.db
 
 
 # Environment Variables
